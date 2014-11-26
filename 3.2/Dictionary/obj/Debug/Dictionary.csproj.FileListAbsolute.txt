@@ -1,0 +1,6 @@
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

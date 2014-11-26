@@ -1,0 +1,5 @@
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\FileSystemBasics\FileSystemBasics\bin\Debug\FileSystemBasics.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\FileSystemBasics\FileSystemBasics\bin\Debug\FileSystemBasics.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\FileSystemBasics\FileSystemBasics\bin\Debug\FileSystemBasics.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\FileSystemBasics\FileSystemBasics\obj\Debug\FileSystemBasics.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\FileSystemBasics\FileSystemBasics\obj\Debug\FileSystemBasics.pdb

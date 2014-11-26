@@ -1,0 +1,6 @@
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\MakingRequests02\MakingRequests02\bin\Debug\MakingRequests02.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\MakingRequests02\MakingRequests02\bin\Debug\MakingRequests02.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\MakingRequests02\MakingRequests02\bin\Debug\MakingRequests02.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\MakingRequests02\MakingRequests02\obj\Debug\MakingRequests02.csprojResolveAssemblyReference.cache
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\MakingRequests02\MakingRequests02\obj\Debug\MakingRequests02.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\MakingRequests02\MakingRequests02\obj\Debug\MakingRequests02.pdb

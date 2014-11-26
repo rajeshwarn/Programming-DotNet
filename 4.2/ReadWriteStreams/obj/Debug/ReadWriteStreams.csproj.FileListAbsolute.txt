@@ -1,0 +1,6 @@
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ReadWriteStreams\ReadWriteStreams\bin\Debug\ReadWriteStreams.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ReadWriteStreams\ReadWriteStreams\bin\Debug\ReadWriteStreams.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ReadWriteStreams\ReadWriteStreams\bin\Debug\ReadWriteStreams.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ReadWriteStreams\ReadWriteStreams\obj\Debug\ReadWriteStreams.csprojResolveAssemblyReference.cache
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ReadWriteStreams\ReadWriteStreams\obj\Debug\ReadWriteStreams.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ReadWriteStreams\ReadWriteStreams\obj\Debug\ReadWriteStreams.pdb

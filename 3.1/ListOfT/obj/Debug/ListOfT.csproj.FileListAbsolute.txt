@@ -1,0 +1,6 @@
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ListOfT\ListOfT\bin\Debug\ListOfT.exe.config
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ListOfT\ListOfT\bin\Debug\ListOfT.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ListOfT\ListOfT\bin\Debug\ListOfT.pdb
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ListOfT\ListOfT\obj\Debug\ListOfT.csprojResolveAssemblyReference.cache
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ListOfT\ListOfT\obj\Debug\ListOfT.exe
+c:\users\jeremy mcpeak\documents\visual studio 2013\Projects\ListOfT\ListOfT\obj\Debug\ListOfT.pdb
